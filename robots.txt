@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hoodie-manufacturing.netlify.app/sitemap.xml
